@@ -156,7 +156,7 @@ Funny JSON Explorer（**FJE**），是一个JSON文件可视化的命令行界�
 
 ## 运行结果
 
-![image-20240612130225912](C:\Users\22739\Desktop\github\learning-note\c++项目\images\image-20240612130225912.png)
+![image-20240612130225912](C:\Users\22739\Desktop\third_fall\Software\fje\result\image-20240612130225912.png)
 
 
 
